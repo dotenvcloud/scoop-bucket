@@ -5,7 +5,7 @@ Scoop manifests for DotEnv CLI.
 ## Installation
 
 ```powershell
-scoop bucket add dotenv https://github.com/lostlink/dotenv-scoop-bucket
+scoop bucket add dotenv https://github.com/dotenvcloud/scoop-bucket
 scoop install dotenv-cli
 ```
 
