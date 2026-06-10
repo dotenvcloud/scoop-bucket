@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "1.0.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/lostlink/dotenv-cli/releases/download/v0.1.0/dotenv-cli_0.1.0_windows_386.zip",
+            "url": "https://github.com/dotenvcloud/cli/releases/download/v1.0.0/dotenv-cli_1.0.0_windows_386.zip",
             "bin": [
                 "dotenv.exe"
             ],
-            "hash": "0345a827d467f01a7a5a531ce333cf2f103e0f0594d6a132ce39b6638caf38ea"
+            "hash": "bad8703b9a6961abf3c6e48ab246c463d5ab296b4a74b5139e5dd88ea963b409"
         },
         "64bit": {
-            "url": "https://github.com/lostlink/dotenv-cli/releases/download/v0.1.0/dotenv-cli_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/dotenvcloud/cli/releases/download/v1.0.0/dotenv-cli_1.0.0_windows_amd64.zip",
             "bin": [
                 "dotenv.exe"
             ],
-            "hash": "59a747fb986517520c51a8383bca3fb98f102ff50fd9c99fdea85ae51abdae24"
+            "hash": "3caadc948d7ec588fa4872c050a0497df4e8e821a2477dd0d2aa9a218fa522ba"
         }
     },
     "homepage": "https://dotenv.cloud",
