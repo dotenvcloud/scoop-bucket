@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/dotenvcloud/cli/releases/download/v1.2.0/dotenv-cli_1.2.0_windows_386.zip",
+            "url": "https://github.com/dotenvcloud/cli/releases/download/v1.3.0/dotenv-cli_1.3.0_windows_386.zip",
             "bin": [
                 "dotenv.exe"
             ],
-            "hash": "27f0eb89a76daeb0e16f061376f83e0c056f371272f6c90b5a1032b4d5829c19"
+            "hash": "cffc2a6ccdd6794fd105197f5617f2ef358d34b7bc3339f9fe8643bfbed89c90"
         },
         "64bit": {
-            "url": "https://github.com/dotenvcloud/cli/releases/download/v1.2.0/dotenv-cli_1.2.0_windows_amd64.zip",
+            "url": "https://github.com/dotenvcloud/cli/releases/download/v1.3.0/dotenv-cli_1.3.0_windows_amd64.zip",
             "bin": [
                 "dotenv.exe"
             ],
-            "hash": "077fd2492cf876c933f609a372b3d012b5b3b4fc4164e285e62d8fdfeb431876"
+            "hash": "45a7de4ee2a5f8b92b3142d1d42f924d551eb771d24ffb83c7e841ac0c0b1c1d"
         }
     },
     "homepage": "https://dotenv.cloud",
